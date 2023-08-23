@@ -18,3 +18,6 @@ I am hoping to add more features in near future.
 
 ## Screenshot
 
+<img src="Screenshots/Hangman1.png">
+<img src="Screenshots/Hangman2.png">
+<img src="Screenshots/Hangman3.png">
